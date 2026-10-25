@@ -1,2 +1,2 @@
 # mmm_plugins
-Plugins/UGens for MMMAudio
+A collection of user-generated Plugins/UGens for MMMAudio
